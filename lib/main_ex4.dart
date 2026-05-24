@@ -1,6 +1,5 @@
 // Start from the exercice 3 code
 import 'package:flutter/material.dart';
-
 void main() {
   runApp(
     MaterialApp(
@@ -88,6 +87,8 @@ void main() {
 
 
             ],),
+            const SizedBox(height: 40),
+
 
 
               Row(
